@@ -1,32 +1,20 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote.}
+- I wrote a small-scale version of Conway's Game of Life where we have a grid of cells that are either alive or dead, and they interact with each other in patterns.
 
 {Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
+I wrote this software because I have a friend who's a big fan of Conway's game of life. I wanted to see what it was about.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I developed my game using pygame in Visual Studio Code with Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Program Arcade Games](http://programarcadegames.com/index.php?chapter=array_backed_grids&lang=en#section_16)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I would like to incorporate controls to allow someone to build a pattern, then activate the game.
